@@ -1,0 +1,333 @@
+{
+  "category_ID": "og430",
+  "method": "combination",
+  "categories": ["og415","og424","og265","og316","og394"]
+},
+{
+  "category_ID": "og431",
+  "method": "combination",
+  "categories": [
+    "og345",
+    "og367",
+    "og368",
+    "og316",
+    "og394",
+    "og415"
+  ]
+},
+{
+  "category_ID": "og432",
+  "method": "combination",
+  "categories": [
+    "og220",
+    "og234",
+    "og236"
+  ]
+},
+{
+  "category_ID": "og433",
+  "method": "combination",
+  "categories": [
+    "og266"
+  ]
+},
+{
+  "category_ID": "og434",
+  "method": "combination",
+  "categories": [
+    "og237",
+    "og242",
+    "og385",
+    "og389",
+    "og413"
+  ]
+},
+{
+  "category_ID": "og435",
+  "method": "combination",
+  "categories": [
+    "og281"
+  ]
+},
+{
+  "category_ID": "og436",
+  "method": "combination",
+  "categories": [
+    "og221",
+    "og225",
+    "og241",
+    "og254",
+    "og260",
+    "og278",
+    "og285",
+    "og291",
+    "og295",
+    "og301",
+    "og303",
+    "og307",
+    "og319",
+    "og324",
+    "og328",
+    "og329",
+    "og357",
+    "og359",
+    "og377",
+    "og414",
+    "og416",
+    "og418",
+    "og424"
+  ]
+},
+{
+  "category_ID": "og437",
+  "method": "combination",
+  "categories": [
+    "og260"
+  ]
+},
+{
+  "category_ID": "og438",
+  "method": "combination",
+  "categories": [
+    "og393"
+  ]
+},
+{
+  "category_ID": "og439",
+  "method": "combination",
+  "categories": [
+    "og229",
+    "og231",
+    "og264",
+    "og310",
+    "og351",
+    "og376",
+    "og387"
+  ]
+},
+{
+  "category_ID": "og440",
+  "method": "combination",
+  "categories": [
+    "og376",
+    "og351",
+    "og387",
+    "og389",
+    "og413"
+  ]
+},
+{
+  "category_ID": "og441",
+  "method": "combination",
+  "categories": [
+    "og335"
+  ]
+},
+{
+  "category_ID": "og442",
+  "method": "combination",
+  "categories": [
+    "og300",
+    "og242",
+    "og385",
+    "og389",
+    "og413"
+  ]
+},
+{
+  "category_ID": "og443",
+  "method": "combination",
+  "categories": [
+    "og259",
+    "og287",
+    "og348",
+    "og379"
+  ]
+},
+{
+  "category_ID": "og444",
+  "method": "combination",
+  "categories": [
+    "og226",
+    "og252",
+    "og255",
+    "og302",
+    "og411",
+    "og339"
+  ]
+},
+{
+  "category_ID": "og445",
+  "method": "combination",
+  "categories": [
+    "og230",
+    "og257",
+    "og274",
+    "og277",
+    "og280",
+    "og313",
+    "og325",
+    "og331",
+    "og336",
+    "og337",
+    "og358",
+    "og362",
+    "og364",
+    "og369",
+    "og378",
+    "og381",
+    "og383",
+    "og399",
+    "og402",
+    "og403",
+    "og425"
+  ]
+},
+{
+  "category_ID": "og446",
+  "method": "combination",
+  "categories": [
+    "og294"
+  ]
+},
+{
+  "category_ID": "og447",
+  "method": "combination",
+  "categories": [
+    "og374",
+    "og382",
+    "og423",
+    "og263"
+  ]
+},
+{
+  "category_ID": "og448",
+  "method": "combination",
+  "categories": [
+    "og227"
+  ]
+},
+{
+  "category_ID": "og449",
+  "method": "combination",
+  "categories": [
+    "og224",
+    "og258",
+    "og305",
+    "og308",
+    "og398",
+    "og334"
+  ]
+},
+{
+  "category_ID": "og488",
+  "method": "combination",
+  "categories": [
+    "og245"
+  ]
+},
+{
+  "category_ID": "og450",
+  "method": "combination",
+  "categories": [
+    "og232",
+    "og297",
+    "og396",
+    "og400",
+    "og417"
+  ]
+},
+{
+  "category_ID": "og451",
+  "method": "combination",
+  "categories": [
+    "og392",
+    "og419"
+  ]
+},
+{
+  "category_ID": "og452",
+  "method": "combination",
+  "categories": [
+    "og218",
+    "og276",
+    "og286",
+    "og349",
+    "og366",
+    "og391",
+    "og412",
+    "og427"
+  ]
+},
+{
+  "category_ID": "og453",
+  "method": "combination",
+  "categories": [
+    "og243",
+    "og248",
+    "og261",
+    "og223",
+    "og314",
+    "og363",
+    "og355",
+    "og401",
+    "og421",
+    "og315"
+  ]
+},
+{
+  "category_ID": "og454",
+  "method": "combination",
+  "categories": [
+    "og306",
+    "og322",
+    "og343"
+  ]
+},
+{
+  "category_ID": "og455",
+  "method": "combination",
+  "categories": [
+    "og239",
+    "og250",
+    "og267",
+    "og290",
+    "og395"
+  ]
+},
+{
+  "category_ID": "og456",
+  "method": "combination",
+  "categories": [
+    "og340"
+  ]
+},
+{
+  "category_ID": "og457",
+  "method": "combination",
+  "categories": [
+    "og327",
+    "og407"
+  ]
+},
+{
+  "category_ID": "og458",
+  "method": "combination",
+  "categories": [
+    "og256",
+    "og284",
+    "og309",
+    "og360",
+    "og408",
+    "og409",
+    "og410"
+  ]
+},
+{
+  "category_ID": "og459",
+  "method": "combination",
+  "categories": [
+    "og405"
+  ]
+}
+] }

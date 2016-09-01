@@ -1,0 +1,3 @@
+og297;^.*google.*$;www.google.com;google
+og450;^.*[^\w]google[^\w].*$;www.google.com;google
+og502;^.*[^\w]google[^\w].*$;www.google.com;google
